@@ -11,11 +11,12 @@ brew install zsh
 -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ＃4.安装macvim 
 brew install macvim
-#5. git clone https://github.com/datamaning/BuildMyVim.git
+#5. git 
+clone https://github.com/datamaning/BuildMyVim.git
 #6. mv .vimrc ~
 #7 vim .vimrc & :PluginInstall
 
-end：
+#end：
 $ brew install wget
 Homebrew 会将套件安装到独立目录，并将文件软链接至 /usr/local 。
 
