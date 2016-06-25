@@ -9,7 +9,10 @@ brew install zsh
 -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 4.安装macvim 
 brew install macvim
-5. git clone https://github.com/datamaning/BuildMyVim.git
+
+5.
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/datamaning/BuildMyVim.git
 6. mv datamaning/.vimrc ~
 7 vim .vimrc & :PluginInstall
 
