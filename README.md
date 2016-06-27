@@ -1,6 +1,6 @@
-# BuildMyVim
+## BuildMyVim
 Use zsh,oh my zsh macvim,tmux ...
-*1.安装homebrew 
+* 1.安装homebrew 
 登陆网站 http://brew.sh/index_zh-cn.html
 复制命令到命令行执行 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 *2.安装zsh 
