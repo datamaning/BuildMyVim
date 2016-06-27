@@ -18,10 +18,9 @@ brew install macvim
 * 1.brew install wget
 * 2.Homebrew 会将套件安装到独立目录，并将文件软链接至 /usr/local 
 * 3.cd /usr/local
-* 4. find Cellar
+* 4.find Cellar
 * 5.Cellar/wget/1.16.1
 * 6.Cellar/wget/1.16.1/bin/wget
 * 7.Cellar/wget/1.16.1/share/man/man1/wget.1
-
 * 8.ls -l bin
 * 9.bin/wget -> ../Cellar/wget/1.16.1/bin/wget
